@@ -72,7 +72,7 @@
                 android:layout_marginStart="21dp"
                 android:layout_marginLeft="21dp"
                 android:layout_marginTop="26dp"
-                android:text="@string/dr."
+                android:text="@string/dr"
                 android:textColor="#FFFFFF"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
